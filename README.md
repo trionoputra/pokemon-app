@@ -34,3 +34,5 @@ $ npm start
 - Pokemon Detail
 - My Pokemon
 - Catch and Release Pokemon
+- Mobile Friendly
+- Global State Management (Redux)
