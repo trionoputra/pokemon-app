@@ -1,0 +1,230 @@
+.navbar-inverse {
+  background-color: #DE5E56;
+  border-color: #DE5E56;
+  }
+  .nav>li {
+    cursor: pointer;
+}
+.navbar-brand
+{
+  padding-top:4px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #fff;
+  background-color: #c62828;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  color: #fff;  
+  background-color: #e94141;
+}
+
+.content
+{
+  margin-top:60px;
+}
+#loader
+{
+  float: right;
+  height: 40px;
+  margin-top:4px;
+}
+
+.navbar-collapse.collapse {
+  display: block!important;
+}
+
+.navbar-nav>li, .navbar-nav {
+  float: left !important;
+}
+
+
+.navbar-nav.navbar-right:last-child {
+  margin-right: -15px !important;
+}
+
+.navbar-right {
+  float: right!important;
+}
+
+.btn-group-vertical>.btn-group:after, .btn-toolbar:after, .clearfix:after, .container-fluid:after, .container:after, .dl-horizontal dd:after, .form-horizontal .form-group:after, .modal-footer:after, .modal-header:after, .nav:after, .navbar-collapse:after, .navbar-header:after, .navbar:after, .pager:after, .panel-body:after, .row:after
+{
+  clear: none;;
+}
+
+.navbar-nav {
+  margin: 0;
+}
+
+.navbar-nav>li>a {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.table
+{
+  margin-bottom:0px;
+}
+
+.loadmore
+{
+  text-align: center;
+  margin-bottom:20px;
+  cursor: pointer;
+  font-weight: bold;
+  color:3176B3;
+}
+.td_id
+{
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+}
+.middle{
+  vertical-align: middle !important;
+}
+.table-pokemonlist tr
+{
+  cursor: pointer;
+}
+.table-pokemonlist tr:hover
+{
+  background-color: #d1d1d1 !important;
+}
+
+@media (max-width: 384px)
+{
+  .content {
+    margin-top: 100px;
+  }
+}
+
+
+.box-img
+{
+  width:100%;
+  min-height:350px;
+  border: 1px solid #e4e6e8;
+  padding:8px;
+  text-align: center;
+}
+.img-thumnail
+{
+  border:1px solid #e4e6e8;
+  cursor: pointer;
+}
+.label-types
+{
+  margin-right:8px;
+}
+.table.table-pokemondetail
+{
+  margin-bottom:16px;
+}
+.img-thumnail.col-md-3
+{
+  width:25% !important;
+  float: left;
+}
+.table-move-wrapper
+{
+  height: 300px;
+  overflow-y: scroll;
+}
+.btn-detail
+{
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom:4px;
+}
+.form-group
+{
+  margin-top:16px;
+}
+.modal-backdrop
+{
+  opacity: 0.3;
+}
+.modal-body
+{
+  padding:0px;
+  position: relative;
+  text-align: center;
+}
+.img-catch
+{
+  position: absolute;
+  top:33%;
+  left:37%;
+}
+
+.span-catch-wrapper
+{
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom:0;
+  left:0;
+}
+.span-catch
+{
+ 
+  font-size: 50px;
+  font-weight: bold;
+  
+  color:#DE5E56;
+  
+}
+
+.span-catch.success
+{
+  color:#3176B3;
+}
+.form-nickname
+{
+  margin-top:0px;
+  margin-left:50px;
+  margin-right:50px;
+}
+.btn-nickname
+{
+  width:100px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.field-error
+{
+  font-size: 12px;
+  color:#DE5E56;
+}
+.nickname-wrapper h3{
+  margin-top: 0px;
+  margin-bottom:20px;
+}
+.nick-label
+{
+  font-size: 11px;
+  color:#696969;
+}
+.name-label-list
+{
+  font-size: 12px;
+  color:#696969;
+  line-height:12px;
+}
+.nickname-label-list
+{
+   font-size: 20px;
+   font-weight: bold;
+   line-height:20px;
+}
+
+.btn-release-list
+{
+  font-size: 10px;
+}
