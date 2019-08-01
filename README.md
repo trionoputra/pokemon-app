@@ -2,6 +2,8 @@
 
 Simple pokedex app create using ReactJS and [PokeAPI](http://pokeapi.co/)
 
+## [DEMO](http://109.235.70.9:3000)
+
 ## Prerequisites
 
 - [Git](https://git-scm.com/)
