@@ -36,3 +36,4 @@ $ npm start
 - Catch and Release Pokemon
 - Mobile Friendly
 - Global State Management (Redux)
+- Simple Unit test
